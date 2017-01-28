@@ -27,7 +27,12 @@
                     "value": "NSG"
                 },
                 {
-                    "label": "NSG-DUC",
+                    "label": "NSG-BR",
+                    "value": "NSGBR"
+                },
+                {
+                {
+                    "label": "NSG-UBR",
                     "value": "NSGDUC"
                 }
             ]
