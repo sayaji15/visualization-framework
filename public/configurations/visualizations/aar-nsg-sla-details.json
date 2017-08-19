@@ -12,7 +12,7 @@
             { "column": "APMGroup", "label": "APMGroup"},
             { "column": "ViolationType", "label": "Type"},
             { "column": "SrcIp", "label": "Source"},
-            { "column": "DestIp", "label": "Destination"}
+            { "column": "DstIp", "label": "Destination"}
         ]
     },
     "query": "aar-nsg-sla-details"
